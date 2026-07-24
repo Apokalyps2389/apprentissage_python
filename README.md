@@ -1,5 +1,21 @@
 # Exercice Python
 
+Dépot contenant plusieurs petits exercices Python :
+
+- `programme_se_presenter` : programme interactif de présentation
+- `programme_Tortue` : exercice avec la tortue
+- `projet_nb_magique` : jeu du nombre magique
+
+Comment exécuter les tests :
+
+```powershell
+cd "c:\Users\bruye\exercice python"
+py -m pytest -q
+```
+
+Prérequis : Python 3.10+ et les dépendances listées dans `requirements.txt`.
+# Exercice Python
+
 Ce dépôt contient un simple exercice Python en français.
 
 ## Fichier principal
