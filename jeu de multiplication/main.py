@@ -1,9 +1,9 @@
 #creer un jeu de multiplication pour apprendre les tables de multiplication
-#creer une fonction pour poser la question et gerer les erreurs de saisie    OK
-#creer une fonction reponse pour verifier si la reponse est correcte ou non   OK
+#creer une fonction pour poser la question et gerer les erreurs de saisie    
+#creer une fonction reponse pour verifier si la reponse est correcte ou non   
 #creer une fonction pour afficher le score final
-#choisir de nombre aleatoire entre 1 et 10     OK
-#choisir le nombre de questions a poser      OK
+#choisir de nombre aleatoire entre 1 et 10     
+#choisir le nombre de questions a poser      
 
 
 import random
