@@ -1,6 +1,6 @@
 import pytest
 
-from main import greet
+from programme_se_presenter.main import greet
 
 
 def test_greet():
